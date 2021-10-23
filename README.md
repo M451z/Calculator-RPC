@@ -34,7 +34,8 @@
 ```
 - Change `YOUR_CLIENT_ID` text with your app's id (`APPLICATION ID`) that's shown under `General Information` section on your app's developer page.
 
-- Change `YOUR_LARGE_IMAGE_NAME` text with your uploaded image's name that's under `Rich Presence>Art Assets` section as seen in the following image.<br> <img src="https://imgur.com/JTGOs2W.png" >
+- Change `YOUR_LARGE_IMAGE_NAME` text with your uploaded image's name that's under `Rich Presence>Art Assets` section as seen in the following image.<br> 
+ <img src="https://imgur.com/JTGOs2W.png" >
 
 - You're good to go, open your terminal and type `node index.js` to make rich presence shown in your status!
 
