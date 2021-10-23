@@ -1,0 +1,10 @@
+{
+    "ClientID": "YOUR_CLIENT_ID",
+    "LargeImage": "YOUR_LARGE_IMAGE_NAME", 
+    "LargeImageText": "Calculator Bot",
+    "Button1": "Invite Now!",
+    "Button2": "Vote The Calculator",
+    "Link1": "https://discord.com/api/oauth2/authorize?client_id=869500014899122246&permissions=259845909568&scope=bot%20applications.commands",
+    "Link2": "https://top.gg/bot/869500014899122246/vote",
+    "Details": "Calculator is a verified Discord Bot \nthat's developed to help you with maths."
+}
