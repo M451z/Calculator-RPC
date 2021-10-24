@@ -49,7 +49,7 @@ Note: Buttons will not work for you, but they always will be working for others!
 
 Join our discord server now to get additional support or hang out!
 
-<a href="https://discord.gg/j2hqzs5Mbu" target="_blank"><img src="https://discord.com/api/guilds/872488208892559380/widget.png?style=banner3" data-canonical-src="https://discord.com/api/guilds/872488208892559380/widget.png?style=banner3"></a>
+<a href="https://discord.gg/3gCRc3HdVC" target="_blank"><img src="https://discord.com/api/guilds/872488208892559380/widget.png?style=banner3" data-canonical-src="https://discord.com/api/guilds/872488208892559380/widget.png?style=banner3"></a>
 
 
 <h3>Developer</h3>
