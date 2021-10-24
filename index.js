@@ -8,6 +8,7 @@ const config = require("./config.json")
 client.on("ready", () => {
     client.setActivity({
         details: config.Details,
+        state: config.State,
         largeImageKey: config.LargeImage,
         largeImageText: config.LargeImageText,
         buttons:[
