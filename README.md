@@ -45,13 +45,6 @@
 
 Note: Buttons will not work for you, but they always will be working for others!
 
-<h2>Discord Server</h2>
-
-Join our discord server now to get additional support or hang out!
-
-<a href="https://discord.gg/f2K4DndEMN" target="_blank"><img src="https://discord.com/api/guilds/851375796609351730/widget.png?style=banner2" data-canonical-src="https://discord.com/api/guilds/851375796609351730/widget.png?style=banner2"></a>
-
-
 <h3>Developer</h3>
 
 👤 Emir.
